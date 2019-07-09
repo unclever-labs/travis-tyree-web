@@ -1,11 +1,10 @@
-title = "Travis Tyree"
-theme = "future-imperfect"
-publishDir = "../public"
 baseurl = "/"
 languageCode = "en-us"
+title = "Hugo Future Imperfect"
+theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortnam"
+disqusShortname = "shortname"
 googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
@@ -16,7 +15,7 @@ canonifyURLs = true
   # Sets the meta tag description
   description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Travis Tyree"
+  navbarTitle          = "Future Imperfect"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
